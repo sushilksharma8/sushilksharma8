@@ -20,14 +20,14 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumanSharmaTech&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushilksharma8&theme=algolia&hide_border=true" />
 </p>
 <br/>
 <p align="center">
-    <img  alt="Suman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SumanSharmaTech&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
+    <img  alt="sushil's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sushilksharma8&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
 </p>
 <p align="center">
-    <img alt="Suman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanSharmaTech&langs_count=8&layout=compact&theme=algolia&hide_border=true" height="192px"/>
+    <img alt="Sushil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushilksharma8&langs_count=8&layout=compact&theme=algolia&hide_border=true" height="192px"/>
 </p>
 
   *******

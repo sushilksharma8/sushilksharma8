@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in developing mobile apps, AI and newer Technologies.<br>🌱 I’m currently learning Flutter.<br>📫 How to reach me: Portfolio - @sushilksharma8<br>⚡ Fun fact: I am fascinated by new Technologies and Tech.<br>
+👀 I’m interested in developing mobile apps, AI and newer Technologies.<br>🌱 I’m currently learning Flutter.<br>📫 How to reach me: Portfolio - @sushilksharma8 <br>⚡ Fun fact: I am fascinated by new Technologies and Tech.<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushilksharma8&label=Profile Views&color=orange&style=flat-square" alt="Sushil Sharma" /> </p>
 
 ## 🌐 Socials:
